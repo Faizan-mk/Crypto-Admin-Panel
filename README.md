@@ -8,18 +8,18 @@ A fully responsive **Admin Panel Dashboard** built with **React**. This dashboar
 
 ### Dashboard Overview
 
-![<img width="818" height="368" alt="1st" src="https://github.com/user-attachments/assets/9a608512-67c2-45e1-8c5d-9ccf748e777c" />
-](./1st.png)
+<img width="818" height="368" alt="1st" src="https://github.com/user-attachments/assets/5e09535d-e6f1-4228-9bdd-4879636a219a" />
+
 
 ### Recent Transactions
 
-![<img width="806" height="364" alt="22nd" src="https://github.com/user-attachments/assets/a6bdebc8-77a1-4e76-a15d-40d8215ed36d" />
-](./2nd.png)
+<img width="806" height="364" alt="22nd" src="https://github.com/user-attachments/assets/36462080-4f1d-436e-a054-46b4e1d0fa5a" />
+
 
 ### User Management
 
-![<img width="802" height="366" alt="3rd" src="https://github.com/user-attachments/assets/b1f2b32a-c84b-4417-8b1e-9d8b73a31656" />
-](./3rd.png)
+<img width="802" height="366" alt="3rd" src="https://github.com/user-attachments/assets/e6713493-6e9a-4fec-af59-ae327e59164d" />
+
 
 ---
 
